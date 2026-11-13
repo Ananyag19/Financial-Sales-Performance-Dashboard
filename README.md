@@ -89,4 +89,3 @@ Source file: an Excel workbook (`Sheet1`) loaded through Power Query. The column
 ### Page 2 – Time & Geography
 ![Page 2](screenshots/page2.png)
 ```
-
